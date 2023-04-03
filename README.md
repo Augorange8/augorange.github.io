@@ -10,11 +10,11 @@
 
 中国地图：使用wind数据库获取2019年末中国各省份的森林覆盖率数据，制作分级设色地图。
 
-[作业2_中国地图链接](https://augorange.github.io/2019年各国人均二氧化碳排放量.html)
+[作业2_世界地图链接](https://augorange.github.io/2019年各国人均二氧化碳排放量.html)
 
 世界地图：使用wind数据库获取2021年世界各国的人均二氧化碳排放量数据，制作分级设色地图。
 
-[作业2_世界地图链接](https://augorange.github.io/2021年全国各省森林覆盖率.html)
+[作业2_中国地图链接](https://augorange.github.io/2021年全国各省森林覆盖率.html)
 
 ## 作业3 组合图表
 
