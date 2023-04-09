@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>《哈利波特》人物共现关系图</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+  <h1 class="text-center">《哈利波特》人物共现关系图</h1>
+  <p class="text-center">本图使用《哈利波特》人物共现关系数据生成。</p>
+  <div class="text-center">
+    <img src="关系图-哈利波特人物.png" class="img-fluid">
+  </div>
+  <p>关系图绘制原理：</p>
+  <p>1.编写Python代码,对《哈利波特》文本进行针对性分词，统计人物在本文中的出现次数。</p>
+  <p>2.以段落为单位进行划分，统计每两个人物出现在同一段中的次数，形成人物关系统计。</p>
+  <p>3.基于Python代码从纯文本中提取出的人物关系网络，用pyecharts将生成的网络可视化。</p>
+</div>
+</body>
+</html>
