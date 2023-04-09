@@ -4,13 +4,13 @@
 
 本网页实现百度搜索引擎的搜索功能，用户可以在输入框中输入关键字，并点击按钮进行搜索，搜索结果会显示在页面下方。因此，在页面中添加了一个输入框、一个按钮和一个用于显示搜索结果的区域，并通过添加图片等方式对页面进行美化。
 
-[作业1链接](https://augorange.github.io/new3.html)
+[作业1链接](https://augorange8.github.io/augorange.github.io/new3.html)
 
 ## 作业2 人物共现关系图
 
 选取《哈利波特》1-7部全部文本，统计人名出现频率和两个人物出现在同一段中的次数，仅统计出现次数达到120次及以上的人物和数量达到10次及以上的连接，用pyecharts实现可视化。接下来，在 HTML 文件中加入关系图，同时在 head 中定义了一些 CSS 样式，包括设置背景颜色、字体、文字对齐方式等。
 
-[作业2链接](https://augorange.github.io/new5.html)
+[作业2链接](https://augorange8.github.io/augorange.github.io/new5.html)
 
 # 计算机科学与编程入门课程第一次作业
 ## 1900015426 程欣然
@@ -18,17 +18,17 @@
 
 选取《哈利波特》1-7部全部文本，统计人名出现频率，将出现频率前二十的人名以词云形式实现可视化。
 
-[作业1链接](https://augorange.github.io/wordcloud_rd_file.html)
+[作业1链接](https://augorange8.github.io/augorange.github.io/wordcloud_rd_file.html)
 
 ## 作业2 中国地图和世界地图
 
 中国地图：使用wind数据库获取2019年末中国各省份的森林覆盖率数据，制作分级设色地图。
 
-[作业2_中国地图链接](https://augorange.github.io/2021年全国各省森林覆盖率.html)
+[作业2_中国地图链接](https://augorange8.github.io/augorange.github.io/2021年全国各省森林覆盖率.html)
 
 世界地图：使用wind数据库获取2021年世界各国的人均二氧化碳排放量数据，制作分级设色地图。
 
-[作业2_世界地图链接](https://augorange.github.io/2019年各国人均二氧化碳排放量.html)
+[作业2_世界地图链接](https://augorange8.github.io/augorange.github.io/2019年各国人均二氧化碳排放量.html)
 
 ## 作业3 组合图表
 
@@ -42,4 +42,4 @@
 
 从可视化结果可以直观看出，上海在3月下旬至五月下旬期间，地铁客运量和拥堵延时指数经历了断崖式下降并保持低位，北京在11月下旬至12月下旬期间，地铁客运量和拥堵延时指数经历了相似的断崖式下降和持续低位，以上结果显示了2022年两座城市各自新冠疫情高峰期对市民交通出行的影响。
 
-[作业3链接](https://augorange.github.io/grid_vertical.html)
+[作业3链接](https://augorange8.github.io/augorange.github.io/grid_vertical.html)
